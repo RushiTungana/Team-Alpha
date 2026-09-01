@@ -1,24 +1,50 @@
-# Team-Alpha
-This repository is created to practice and strengthen our Core Java programming skills through daily tasks, coding exercises, problem-solving, and collaborative GitHub work Under Our mentor  Shashank Sir
-
-````
 # 🚀 TEAM ALPHA — JAVA FULL STACK LEARNING JOURNEY
 
 > **Learn • Practice • Build • Collaborate • Grow**
 
 Welcome to the official **TEAM Alpha Java Learning Repository**.
 
-This repository documents our complete learning journey from **Java fundamentals to Core Java, Advanced Java, and Java Full Stack Development**. It contains our concepts, daily assignments, coding practice, problem-solving programs, notes, projects, and GitHub contributions.
+This repository documents our complete learning journey from **Java Fundamentals to Core Java, Advanced Java, and Java Full Stack Development**.
 
-Our goal is to build a strong foundation in Java and gradually progress toward developing **real-world full-stack applications**.
+It serves as a collaborative workspace for maintaining daily assignments, Java programs, coding practice, problem-solving exercises, technical concepts, projects, and individual GitHub contributions.
+
+Our goal is to build strong programming fundamentals, develop practical software development skills, and gradually progress toward building complete real-world Java Full Stack applications.
+
+---
+# 👨‍🏫 Mentor
+
+## Shashank Sir
+
+**Shashank Sir** is our mentor and guide throughout the Java learning journey.
+
+Under his guidance, the team learns concepts systematically, receives programming assignments, practices problem-solving, and develops the technical foundation required for Java Full Stack Development.
+
+### Mentor Guidance
+
+- Introduce and explain technical concepts.
+- Assign programming and practice tasks.
+- Guide the team through the learning roadmap.
+- Clarify difficult concepts and programming problems.
+- Encourage practical implementation.
+- Review learning progress.
+- Guide the team toward industry-oriented development.
 
 ---
 
-## 📖 Introduction
+#  TEAM ALPHA
 
-**TEAM Alpha** is a team of Java learners working together to develop programming, problem-solving, software development, and collaboration skills.
+ | **Sujay** |
+ | **RamMoorthy** |
+ | **Ankith** |
+ | **Rushi Tungana** |
 
-We follow a structured learning path where every concept is:
+---
+
+# 📖 Introduction
+
+**TEAM Alpha** is a group of Java learners working together to improve programming, problem-solving, development, and collaboration skills.
+
+Instead of learning concepts only theoretically, we follow a practical approach:
 
 ```text
 Learn
@@ -38,1042 +64,866 @@ Review
 Improve
   ↓
 Build
-````
+```
 
-The repository will grow along with our learning journey:
+Our complete technical journey follows:
 
 ```text
 Java Fundamentals
-       ↓
+        ↓
 Core Java
-       ↓
-Advanced Java
-       ↓
+        ↓
 Database & JDBC
-       ↓
-Web Development
-       ↓
-Spring & Spring Boot
-       ↓
+        ↓
+Advanced Java
+        ↓
+Hibernate & JPA
+        ↓
+Spring Framework
+        ↓
+Spring Boot & REST APIs
+        ↓
 Frontend Development
-       ↓
-Full Stack Integration
-       ↓
+        ↓
+React
+        ↓
+Java Full Stack Integration
+        ↓
+Security
+        ↓
+Microservices & DevOps
+        ↓
 Projects
-       ↓
-Java Full Stack Developer
+        ↓
+Java Full Stack Developer 🚀
 ```
 
 ---
 
-# 👨‍🏫 Mentor
 
-## Shashank Sir
 
-**Shashank Sir** is our mentor and guide throughout this Java learning journey.
+# 🎯 Purpose & Objective
 
-Under his guidance, we will learn Java concepts systematically, complete programming assignments, practice problem-solving, develop projects, and progress toward Java Full Stack Development.
+The purpose of **TEAM Alpha** is to create a structured and collaborative environment for learning Java and developing practical programming skills.
 
-### Mentor Responsibilities
+Our objectives are to:
 
-* Provide technical guidance.
-* Introduce and explain concepts.
-* Assign daily programming tasks.
-* Guide the team's learning path.
-* Help us understand difficult concepts.
-* Encourage practical coding.
-* Review our progress.
-* Guide us toward industry-oriented development.
-
----
-
-# 👥 Team Alpha
-
-| Role              | Name              |
-| ----------------- | ----------------- |
-| 👑 Team Leader    | **Rushi Tungana** |
-| 👨‍💻 Team Member | **Sujay**         |
-| 👨‍💻 Team Member | **RamMoorthy**    |
-| 👨‍💻 Team Member | **Ankith**        |
+- Build strong Java programming fundamentals.
+- Develop logical thinking and problem-solving ability.
+- Master Core Java and Object-Oriented Programming.
+- Practice concepts through daily coding assignments.
+- Learn database and backend development.
+- Understand enterprise Java technologies.
+- Develop frontend development skills.
+- Build REST APIs and full-stack applications.
+- Learn Git and GitHub collaboration.
+- Maintain genuine individual contributions.
+- Practice debugging and code review.
+- Prepare for technical interviews.
+- Build practical and real-world projects.
+- Progress toward becoming industry-ready **Java Full Stack Developers**.
 
 ---
 
-# 👑 Team Leader Responsibilities
+# 👑 Team Responsibilities
 
-**Rushi Tungana** coordinates the team and maintains the repository.
+## Team Leader
+
+The Team Leader coordinates the team's activities and maintains the repository.
 
 Responsibilities include:
 
-* Coordinate team activities.
-* Understand daily assignments.
-* Organize and track tasks.
-* Maintain the GitHub repository.
-* Maintain repository structure.
-* Review submitted code.
-* Help team members resolve errors.
-* Track individual contributions.
-* Maintain task documentation.
-* Communicate progress when required.
+- Organizing and assigning tasks.
+- Tracking task completion.
+- Maintaining repository structure.
+- Reviewing submitted programs.
+- Helping team members resolve errors.
+- Tracking individual contributions.
+- Maintaining documentation.
+- Coordinating with the mentor when required.
+
+## Team Members
+
+Every member is responsible for:
+
+- Understanding the assigned concept.
+- Completing programming tasks independently.
+- Writing and understanding their own code.
+- Testing and debugging programs.
+- Following Java coding conventions.
+- Committing their own work.
+- Pushing through their own GitHub account.
+- Using meaningful commit messages.
+- Participating in discussions and code reviews.
+- Helping teammates when necessary.
+
+> **Every team member should make genuine contributions using their own GitHub account.**
 
 ---
 
-# 🤝 Team Responsibilities
+# 🗺️ JAVA FULL STACK LEARNING ROADMAP
 
-Every team member is expected to actively participate in the learning process.
+## 🟢 1. Java Fundamentals
 
-Each member should:
+### Java Introduction
 
-* Understand the concepts taught.
-* Complete assigned tasks.
-* Write and understand their own programs.
-* Test programs before submission.
-* Debug errors.
-* Commit their own work.
-* Push their own work to GitHub.
-* Use meaningful commit messages.
-* Participate in code reviews.
-* Help teammates when necessary.
-* Maintain consistent contributions.
+- History and features of Java
+- Advantages and applications of Java
+- Java editions
+- Java program structure
+- Compilation and execution
 
-> **Every member should make genuine contributions using their own GitHub account.**
+### Java Environment
 
----
+- JDK
+- JRE
+- JVM
+- JVM architecture
+- Bytecode
+- Platform independence
 
-# 🎯 Purpose of the Repository
+### Programming Fundamentals
 
-This repository is maintained to:
+- Variables
+- Constants
+- Primitive and non-primitive data types
+- Type casting
+- Input and output
 
-* Learn Java systematically from beginner level.
-* Build strong Core Java fundamentals.
-* Practice programming regularly.
-* Improve logical and problem-solving skills.
-* Understand Object-Oriented Programming.
-* Learn Advanced Java technologies.
-* Develop database and backend skills.
-* Learn frontend technologies.
-* Build full-stack applications.
-* Practice Git and GitHub.
-* Develop teamwork and collaboration skills.
-* Maintain individual contributions.
-* Review and improve code.
-* Prepare for technical interviews.
-* Build practical and real-world projects.
+### Operators
+
+- Arithmetic operators
+- Relational operators
+- Logical operators
+- Assignment operators
+- Unary operators
+- Increment and decrement
+- Ternary operator
 
 ---
 
-# 🎯 Team Objective
+# 🟢 2. Control Flow & Programming Logic
 
-Our objective is to become confident and industry-ready **Java Full Stack Developers** through continuous learning and practical development.
+### Decision-Making
 
-We aim to develop:
+- `if`
+- `if-else`
+- `else-if` ladder
+- Nested `if`
+- `switch`
 
-```text
-Programming Fundamentals
-        +
-Problem-Solving Skills
-        +
-Core Java
-        +
-Object-Oriented Programming
-        +
-Database Skills
-        +
-Backend Development
-        +
-Frontend Development
-        +
-Git & GitHub
-        +
-Project Development
-        ↓
-Java Full Stack Development
-```
+### Loops
 
----
+- `for`
+- `while`
+- `do-while`
+- Nested loops
 
-# ☕ JAVA LEARNING PATH
+### Jump Statements
 
-Our learning path progresses from beginner-level Java concepts to advanced full-stack development.
+- `break`
+- `continue`
+- `return`
 
----
+### Programming Practice
 
-# 🟢 PHASE 1 — JAVA FUNDAMENTALS
-
-## Introduction to Java
-
-* What is Java?
-* History of Java
-* Features of Java
-* Advantages of Java
-* Applications of Java
-* Java Editions
-* Java Program Structure
-
-## JDK, JRE and JVM
-
-* JDK
-* JRE
-* JVM
-* JVM Architecture
-* Java Compilation Process
-* Bytecode
-* Platform Independence
-
-## Variables
-
-* Variable declaration
-* Variable initialization
-* Local variables
-* Instance variables
-* Static variables
-* Variable naming rules
-* Constants
-
-## Data Types
-
-### Primitive Data Types
-
-* byte
-* short
-* int
-* long
-* float
-* double
-* char
-* boolean
-
-### Non-Primitive Data Types
-
-* String
-* Arrays
-* Classes
-* Objects
-* Interfaces
-
-## Type Casting
-
-* Widening casting
-* Narrowing casting
-* Implicit casting
-* Explicit casting
-
-## Operators
-
-### Arithmetic
-
-```text
-+   -   *   /   %
-```
-
-### Relational
-
-```text
->   <   >=   <=   ==   !=
-```
-
-### Logical
-
-```text
-&&   ||   !
-```
-
-### Assignment
-
-```text
-=   +=   -=   *=   /=   %=
-```
-
-### Unary
-
-```text
-++   --
-```
-
-### Increment and Decrement
-
-* Pre-increment
-* Post-increment
-* Pre-decrement
-* Post-decrement
-
-### Ternary Operator
-
-```text
-condition ? value1 : value2
-```
+- Number programs
+- Even and odd
+- Positive and negative numbers
+- Largest number
+- Factorial
+- Prime numbers
+- Palindrome
+- Armstrong numbers
+- Fibonacci series
+- Reverse numbers
+- Pattern programs
 
 ---
 
-# 🟢 PHASE 2 — CONTROL STATEMENTS & LOOPS
-
-## Decision-Making Statements
-
-* if
-* if-else
-* else-if ladder
-* Nested if
-* switch
-* Nested switch
-
-## Looping Statements
-
-* for
-* while
-* do-while
-* Nested loops
-
-## Jump Statements
-
-* break
-* continue
-* return
-
-## Programming Practice
-
-* Number programs
-* Even and odd
-* Positive and negative
-* Largest number
-* Factorial
-* Prime number
-* Palindrome
-* Armstrong number
-* Fibonacci series
-* Sum of numbers
-* Reverse number
-* Pattern programs
-
----
-
-# 🟢 PHASE 3 — METHODS & CONSTRUCTORS
+# 🟢 3. Methods & Constructors
 
 ## Methods
 
-* Method declaration
-* Method definition
-* Method calling
-* Parameters
-* Arguments
-* Return types
-* Void methods
-* Static methods
-* Instance methods
-* Methods with parameters
-* Methods without parameters
-* Methods with return values
-* Methods without return values
-* Method overloading
-* Method overriding
+- Method declaration and calling
+- Parameters and arguments
+- Return types
+- Static and instance methods
+- Methods with and without parameters
+- Methods with and without return values
+- Method overloading
+- Method overriding
 
 ## Constructors
 
-* Constructor introduction
-* Constructor syntax
-* Default constructor
-* Parameterized constructor
-* Constructor overloading
-* Constructor chaining
-* this keyword
-* super keyword
+- Default constructor
+- Parameterized constructor
+- Constructor overloading
+- Constructor chaining
+- `this` keyword
+- `super` keyword
 
 ---
 
-# 🟢 PHASE 4 — ARRAYS
+# 🟢 4. Arrays & Strings
 
-## One-Dimensional Arrays
+## Arrays
 
-* Declaration
-* Initialization
-* Traversal
-* Input
-* Output
-* Searching
-* Sorting
+- One-dimensional arrays
+- Two-dimensional arrays
+- Array traversal
+- Searching
+- Sorting
+- Matrix operations
 
-## Two-Dimensional Arrays
+## Strings
 
-* Matrix
-* Matrix input
-* Matrix output
-* Matrix addition
-* Matrix multiplication
-* Matrix transpose
-
----
-
-# 🟢 PHASE 5 — STRINGS
-
-## String
-
-* String creation
-* String literals
-* String Pool
-* String immutability
-* String methods
-* String comparison
-* String concatenation
-
-## StringBuffer
-
-* append()
-* insert()
-* delete()
-* reverse()
-
-## StringBuilder
-
-* append()
-* insert()
-* delete()
-* reverse()
+- String creation
+- String literals
+- String Pool
+- String immutability
+- String methods
+- String comparison
+- String concatenation
+- StringBuffer
+- StringBuilder
 
 ---
 
-# 🟢 PHASE 6 — OBJECT-ORIENTED PROGRAMMING
+# 🟢 5. Object-Oriented Programming
 
-## Classes and Objects
+## Classes & Objects
 
-* Class
-* Object
-* Fields
-* Methods
-* Object creation
-* Object references
+- Classes
+- Objects
+- Fields
+- Methods
+- Object creation
+- Object references
 
 ## Encapsulation
 
-* Data hiding
-* private members
-* Getters
-* Setters
+- Data hiding
+- Private members
+- Getters
+- Setters
 
 ## Inheritance
 
-* Simple inheritance
-* Multilevel inheritance
-* Hierarchical inheritance
-* Multiple inheritance through interfaces
+- Simple inheritance
+- Multilevel inheritance
+- Hierarchical inheritance
+- Constructor execution in inheritance
+- `super` keyword
 
 ## Polymorphism
 
-### Compile-Time Polymorphism
-
-* Method overloading
-
-### Runtime Polymorphism
-
-* Method overriding
-* Dynamic method dispatch
+- Method overloading
+- Method overriding
+- Compile-time polymorphism
+- Runtime polymorphism
+- Dynamic method dispatch
 
 ## Abstraction
 
-* Abstract class
-* Abstract methods
+- Abstract classes
+- Abstract methods
 
 ## Interfaces
 
-* Interface
-* Implementing interfaces
-* Multiple interfaces
-* Default methods
-* Static methods
-* Functional interfaces
+- Interface declaration
+- Implementing interfaces
+- Multiple interfaces
+- Default methods
+- Static methods
+- Functional interfaces
 
 ---
 
-# 🟢 PHASE 7 — JAVA KEYWORDS & PACKAGES
+# 🟢 6. Core Java Essentials
 
-## Important Keywords
+### Packages & Access Control
 
-* this
-* super
-* static
-* final
-* instanceof
-* new
-* return
-* extends
-* implements
-* abstract
-* synchronized
-* volatile
+- Built-in packages
+- User-defined packages
+- `private`
+- default
+- `protected`
+- `public`
 
-## Packages
+### Important Keywords
 
-* Creating packages
-* Importing packages
-* User-defined packages
-* Built-in packages
+- `this`
+- `super`
+- `static`
+- `final`
+- `instanceof`
+- `extends`
+- `implements`
+- `abstract`
 
-## Access Modifiers
+### Wrapper Classes
 
-* private
-* default
-* protected
-* public
-
----
-
-# 🟢 PHASE 8 — EXCEPTION HANDLING
-
-## Concepts
-
-* Exception
-* Error
-* Exception hierarchy
-* try
-* catch
-* finally
-* throw
-* throws
-* Multiple catch blocks
-* Nested try
-* Custom exceptions
-
-## Common Exceptions
-
-* ArithmeticException
-* NullPointerException
-* ArrayIndexOutOfBoundsException
-* NumberFormatException
-* InputMismatchException
-* ClassCastException
+- Integer
+- Double
+- Character
+- Boolean
+- Autoboxing
+- Unboxing
+- Parsing methods
 
 ---
 
-# 🟢 PHASE 9 — WRAPPER CLASSES & GENERICS
+# 🟢 7. Exception Handling
 
-## Wrapper Classes
+- Exceptions and errors
+- Exception hierarchy
+- `try`
+- `catch`
+- `finally`
+- `throw`
+- `throws`
+- Multiple catch blocks
+- Nested try blocks
+- Custom exceptions
 
-* Wrapper classes
-* Autoboxing
-* Unboxing
-* Integer
-* Double
-* Character
-* Boolean
-* Parsing methods
+### Common Exceptions
+
+- ArithmeticException
+- NullPointerException
+- ArrayIndexOutOfBoundsException
+- NumberFormatException
+- InputMismatchException
+- ClassCastException
+
+---
+
+# 🟢 8. Collections & Generics
+
+## Collections Framework
+
+### List
+
+- ArrayList
+- LinkedList
+- Vector
+- Stack
+
+### Set
+
+- HashSet
+- LinkedHashSet
+- TreeSet
+
+### Map
+
+- HashMap
+- LinkedHashMap
+- TreeMap
+- Hashtable
+
+### Queue
+
+- Queue
+- PriorityQueue
+- Deque
+
+### Utilities
+
+- Iterator
+- ListIterator
+- Comparable
+- Comparator
+- Collections class
 
 ## Generics
 
-* Generic classes
-* Generic methods
-* Generic interfaces
-* Type parameters
-* Bounded types
-* Wildcards
+- Generic classes
+- Generic methods
+- Generic interfaces
+- Type parameters
+- Bounded types
+- Wildcards
 
 ---
 
-# 🟢 PHASE 10 — COLLECTIONS FRAMEWORK
+# 🟢 9. Multithreading & File Handling
 
-## List
+## Multithreading
 
-* ArrayList
-* LinkedList
-* Vector
-* Stack
+- Process and thread
+- Thread lifecycle
+- Thread class
+- Runnable interface
+- Multiple threads
+- `sleep()`
+- `join()`
+- Synchronization
+- Inter-thread communication
+- Race conditions
+- Deadlock basics
 
-## Set
+## File Handling
 
-* HashSet
-* LinkedHashSet
-* TreeSet
-
-## Map
-
-* HashMap
-* LinkedHashMap
-* TreeMap
-* Hashtable
-
-## Queue
-
-* Queue
-* PriorityQueue
-* Deque
-
-## Collection Utilities
-
-* Iterator
-* ListIterator
-* Comparable
-* Comparator
-* Collections class
+- File
+- FileReader
+- FileWriter
+- BufferedReader
+- BufferedWriter
+- FileInputStream
+- FileOutputStream
+- Serialization
+- Deserialization
 
 ---
 
-# 🟢 PHASE 11 — MULTITHREADING
+# 🟢 10. Java 8 Features
 
-* Process
-* Thread
-* Thread life cycle
-* Creating threads
-* Thread class
-* Runnable interface
-* Thread methods
-* sleep()
-* join()
-* Synchronization
-* Inter-thread communication
-* Race conditions
-* Deadlock basics
-
----
-
-# 🟢 PHASE 12 — FILE HANDLING
-
-* File
-* FileReader
-* FileWriter
-* BufferedReader
-* BufferedWriter
-* FileInputStream
-* FileOutputStream
-* Serialization
-* Deserialization
+- Lambda expressions
+- Functional interfaces
+- Predicate
+- Consumer
+- Supplier
+- Function
+- Method references
+- Constructor references
+- Stream API
+- `filter()`
+- `map()`
+- `sorted()`
+- `reduce()`
+- `collect()`
+- `forEach()`
+- Optional
+- Date and Time API
 
 ---
 
-# 🟢 PHASE 13 — JAVA 8 FEATURES
+# 🔵 11. Database & SQL
 
-* Lambda expressions
-* Functional interfaces
-* Predicate
-* Consumer
-* Supplier
-* Function
-* Method references
-* Constructor references
-* Stream API
-* filter()
-* map()
-* sorted()
-* reduce()
-* collect()
-* forEach()
-* Optional
-* Date and Time API
+## RDBMS / MySQL
 
----
+- Database fundamentals
+- Tables, rows and columns
+- Primary and foreign keys
+- Constraints
+- Database normalization
+- CRUD operations
+- DDL and DML commands
+- SQL operators
 
-# 🔵 PHASE 14 — SQL & DATABASE
+### SQL
 
-Database knowledge is essential for Java backend and full-stack development.
-
-## SQL Fundamentals
-
-* Database fundamentals
-* Tables
-* Rows
-* Columns
-* Primary key
-* Foreign key
-* Constraints
-* CREATE
-* INSERT
-* SELECT
-* UPDATE
-* DELETE
-* WHERE
-* ORDER BY
-* GROUP BY
-* HAVING
-* Aggregate functions
-* Joins
-* Subqueries
-* Views
-* Indexes
-* Transactions
-
-## MySQL
-
-* MySQL installation
-* Database creation
-* Table creation
-* CRUD operations
-* Database design
+- CREATE
+- INSERT
+- SELECT
+- UPDATE
+- DELETE
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- Aggregate functions
+- Joins
+- Subqueries
+- Views
+- Indexes
+- Transactions
 
 ---
 
-# 🔵 PHASE 15 — JDBC
+# 🔵 12. JDBC
 
-* JDBC introduction
-* JDBC architecture
-* JDBC drivers
-* Database connection
-* Connection
-* Statement
-* PreparedStatement
-* ResultSet
-* CRUD operations
-* Transactions
-* Exception handling with JDBC
-
----
-
-# 🔵 PHASE 16 — ADVANCED JAVA & WEB DEVELOPMENT
-
-## HTML
-
-* HTML structure
-* Elements
-* Attributes
-* Forms
-* Tables
-* Lists
-* Links
-* Images
-* Semantic HTML
-
-## CSS
-
-* Selectors
-* Colors
-* Fonts
-* Box model
-* Flexbox
-* Grid
-* Positioning
-* Responsive design
-
-## JavaScript
-
-* Variables
-* Data types
-* Operators
-* Functions
-* Arrays
-* Objects
-* DOM
-* Events
-* ES6 features
-* Promises
-* Async/Await
-* Fetch API
+- JDBC architecture
+- JDBC drivers
+- DriverManager
+- Database connection
+- Connection
+- Statement
+- PreparedStatement
+- CallableStatement
+- ResultSet
+- CRUD operations
+- Transactions
+- Exception handling with JDBC
 
 ---
 
-# 🔵 PHASE 17 — SERVLETS
+# 🔵 13. Advanced Java
 
-* Servlet introduction
-* Servlet architecture
-* Servlet life cycle
-* HttpServlet
-* doGet()
-* doPost()
-* Request
-* Response
-* Sessions
-* Cookies
-* Servlet configuration
+## Servlets
 
----
-
-# 🔵 PHASE 18 — JSP & MVC
+- Servlet introduction
+- Servlet architecture
+- Servlet lifecycle
+- Servlet container
+- HttpServlet
+- `doGet()`
+- `doPost()`
+- ServletRequest
+- ServletResponse
+- Sessions
+- Cookies
+- JDBC integration
 
 ## JSP
 
-* JSP introduction
-* JSP life cycle
-* JSP elements
-* Scriptlets
-* Expressions
-* Declarations
-* Directives
-* Actions
-* JSP with Servlets
+- JSP introduction
+- JSP lifecycle
+- JSP elements
+- Expressions
+- Declarations
+- Directives
+- Actions
+- JSP with Servlets
 
 ## MVC
 
-* MVC architecture
-* Model
-* View
-* Controller
-* Separation of concerns
+- Model
+- View
+- Controller
+- Separation of concerns
 
 ---
 
-# 🔵 PHASE 19 — HIBERNATE & JPA
+# 🔵 14. Hibernate & JPA
 
-* ORM
-* Hibernate
-* JPA
-* Entity
-* EntityManager
-* Persistence
-* Entity mapping
-* One-to-One
-* One-to-Many
-* Many-to-One
-* Many-to-Many
-* JPQL
-* CRUD operations
-
----
-
-# 🟣 PHASE 20 — SPRING FRAMEWORK
-
-* Spring introduction
-* Spring architecture
-* IoC
-* Dependency Injection
-* Beans
-* Bean lifecycle
-* Configuration
-* Component scanning
-* Annotations
-* @Component
-* @Service
-* @Repository
-* @Autowired
-* Spring MVC
+- ORM concepts
+- Hibernate
+- JPA
+- Entities
+- EntityManager
+- Persistence
+- Entity mapping
+- One-to-One
+- One-to-Many
+- Many-to-One
+- Many-to-Many
+- JPQL
+- CRUD operations
+- Transactions
 
 ---
 
-# 🟣 PHASE 21 — SPRING BOOT
+# 🟣 15. Spring Framework
 
-* Spring Boot introduction
-* Project structure
-* Starters
-* Auto-configuration
-* Application properties
-* Profiles
-* REST controllers
-* Services
-* Repositories
-* Dependency Injection
-* Exception handling
-* Validation
-* Configuration
-
----
-
-# 🟣 PHASE 22 — REST API DEVELOPMENT
-
-* REST architecture
-* HTTP
-* GET
-* POST
-* PUT
-* DELETE
-* HTTP status codes
-* JSON
-* Request body
-* Path variables
-* Request parameters
-* REST controllers
-* API validation
-* Global exception handling
+- Spring introduction
+- Spring architecture
+- IoC
+- Dependency Injection
+- Beans
+- Bean lifecycle
+- Configuration
+- Component scanning
+- Spring annotations
+- `@Component`
+- `@Service`
+- `@Repository`
+- `@Autowired`
+- Spring MVC
+- Spring Data concepts
 
 ---
 
-# 🟣 PHASE 23 — SPRING DATA JPA
+# 🟣 16. Spring Boot & REST APIs
 
-* JPA
-* Entities
-* Repositories
-* JpaRepository
-* CRUD
-* Query methods
-* Custom queries
-* Relationships
-* Pagination
-* Sorting
-* Transactions
+## Spring Boot
+
+- Project structure
+- Starters
+- Auto-configuration
+- Application properties
+- Profiles
+- Controllers
+- Services
+- Repositories
+- Dependency Injection
+- Validation
+- Exception handling
+
+## REST APIs
+
+- REST architecture
+- HTTP
+- GET
+- POST
+- PUT
+- DELETE
+- HTTP status codes
+- JSON
+- Request body
+- Path variables
+- Request parameters
+- REST controllers
+- API validation
+- Global exception handling
+- API testing
+
+## Spring Data JPA
+
+- JpaRepository
+- CRUD
+- Query methods
+- Custom queries
+- Entity relationships
+- Pagination
+- Sorting
+- Transactions
 
 ---
 
-# 🟣 PHASE 24 — FRONTEND DEVELOPMENT
+# 🟠 17. Frontend Development
 
-Frontend technologies:
+## HTML
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* React.js
+- HTML structure
+- Elements and attributes
+- Headings and paragraphs
+- Lists
+- Links
+- Images
+- Tables
+- Forms
+- Semantic HTML
 
-## React.js
+## CSS
 
-* React introduction
-* Components
-* JSX
-* Props
-* State
-* Events
-* Hooks
-* useState
-* useEffect
-* Forms
-* Conditional rendering
-* Lists
-* React Router
-* API integration
+- Selectors
+- Typography
+- Box model
+- Positioning
+- Flexbox
+- Grid
+- Responsive design
+
+## Bootstrap
+
+- Grid system
+- Typography
+- Utilities
+- Buttons
+- Forms
+- Navigation
+- Cards
+- Tables
+- Responsive components
+
+## JavaScript
+
+- Variables
+- Data types
+- Operators
+- Control flow
+- Functions
+- Arrays
+- Objects
+- Built-in methods
+- ES6 features
+- DOM
+- Events
+- Modules
+- Promises
+- Async/Await
+- Fetch API
+- AJAX
+- API integration
 
 ---
 
-# 🟣 PHASE 25 — JAVA FULL STACK INTEGRATION
+# ⚛️ 18. React.js
 
-The frontend, backend, and database will be integrated to create complete applications.
+- React environment setup
+- JSX
+- Components
+- Props
+- State
+- Component lifecycle
+- Hooks
+- `useState()`
+- `useEffect()`
+- `useContext()`
+- Event handling
+- Forms
+- Conditional rendering
+- Lists and keys
+- Styling
+- React Router
+- Nested and dynamic routes
+- API integration
+- Redux
+- Async programming
+- Error handling
+- Performance optimization
+- Deployment basics
+
+---
+
+# 🔗 19. Java Full Stack Integration
+
+Our full-stack applications will follow this architecture:
 
 ```text
-             FRONTEND
-       HTML / CSS / JavaScript
-              React
-                │
-                │ HTTP / REST API
-                ▼
-             BACKEND
-           Spring Boot
-                │
-                ▼
-          JPA / Hibernate
-                │
-                ▼
-              MySQL
+            FRONTEND
+     HTML / CSS / JavaScript
+             React
+               │
+               │
+          HTTP / REST
+               │
+               ▼
+            BACKEND
+          Spring Boot
+               │
+               ▼
+        JPA / Hibernate
+               │
+               ▼
+             MySQL
 ```
 
 We will practice:
 
-* Frontend and backend integration
-* REST API consumption
-* CRUD applications
-* Form handling
-* Validation
-* Authentication
-* Authorization
-* Database integration
-* Error handling
-* API testing
-* Full-stack application development
+- Frontend-backend communication
+- REST API consumption
+- CRUD applications
+- Form handling
+- Validation
+- Database integration
+- Error handling
+- Authentication
+- Authorization
+- API testing
+- Complete full-stack application development
 
 ---
 
-# 🟣 PHASE 26 — SECURITY
+# 🔐 20. Security
 
-* Authentication
-* Authorization
-* Password security
-* Spring Security
-* JWT
-* Role-based access
-* Protected APIs
-
----
-
-# 🟣 PHASE 27 — DEVELOPMENT TOOLS
-
-Throughout the learning journey, we will work with:
-
-* JDK
-* IntelliJ IDEA / Eclipse
-* Visual Studio Code
-* Git
-* GitHub
-* Maven
-* MySQL
-* MySQL Workbench
-* Postman
-* Browser Developer Tools
+- Authentication
+- Authorization
+- Password security
+- Spring Security
+- Role-based authentication
+- OAuth2 concepts
+- Token-based authentication
+- JWT
+- Protected APIs
 
 ---
 
-# 🟣 PHASE 28 — MICROSERVICES
+# 🟣 21. Microservices, DevOps & Design Patterns
 
-After developing a strong foundation in Java Full Stack development, we will explore:
+## Microservices
 
-* Microservices architecture
-* Service-to-service communication
-* REST communication
-* Service discovery
-* API Gateway
-* Configuration management
-* Distributed systems basics
-* Spring Cloud
-* Docker basics
+- Microservices architecture
+- Monolithic vs Microservices
+- Service-to-service communication
+- Client-side discovery
+- Server-side discovery
+- Service discovery
+- API Gateway
+- Load balancing
+- Configuration management
+- Spring Cloud basics
+
+## DevOps & Development Tools
+
+- Git
+- GitHub
+- Maven
+- JUnit
+- Jenkins
+- Docker
+- Postman
+- IntelliJ IDEA / Eclipse
+- Visual Studio Code
+- MySQL Workbench
+
+## Design Patterns
+
+- Creational patterns
+- Structural patterns
+- Behavioral patterns
 
 ---
 
-# 🏗️ PROJECT DEVELOPMENT
+# 🏗️ Project Development Path
 
-Projects will be an important part of our learning journey.
-
-Our project progression will be:
+Our development journey will gradually move from individual programs to complete applications.
 
 ```text
 Basic Java Programs
         ↓
-Java Mini Projects
+Problem-Solving Programs
         ↓
-Core Java Projects
+Core Java Programs
         ↓
-JDBC Projects
+Mini Projects
         ↓
-Web Applications
+JDBC Applications
+        ↓
+Servlet & JSP Applications
         ↓
 Spring Boot Applications
         ↓
 REST API Projects
         ↓
-Full Stack Applications
+React Applications
+        ↓
+Java Full Stack Applications
         ↓
 Real-World Projects
 ```
 
-Projects will allow us to apply concepts learned throughout the roadmap and develop practical development experience.
+Possible project areas include:
+
+- Banking Application
+- E-Commerce / Medicine Shopping System
+- Auction Application
+- Hospital / Health Assistance System
+- Student Management System
+- Employee Management System
+- Full Stack CRUD Applications
 
 ---
 
-# 📂 REPOSITORY STRUCTURE
-
-The repository will be organized according to technologies, concepts, tasks, and projects.
+# 📂 Repository Structure
 
 ```text
 TEAM-Alpha/
 │
 ├── README.md
 │
-├── Java-Basics/
-│   ├── Introduction/
+├── Tasks/
+│   ├── Task-01/
+│   ├── Task-02/
+│   ├── Task-03/
+│   └── ...
+│
+├── Java-Fundamentals/
 │   ├── JDK-JRE-JVM/
-│   ├── Variables/
-│   ├── Data-Types/
-│   ├── Type-Casting/
+│   ├── Variables-DataTypes/
 │   ├── Operators/
 │   ├── Control-Statements/
 │   ├── Loops/
 │   └── Patterns/
 │
 ├── Core-Java/
-│   ├── Methods/
-│   ├── Constructors/
+│   ├── Methods-Constructors/
 │   ├── Arrays/
 │   ├── Strings/
 │   ├── OOP/
-│   │   ├── Classes-Objects/
-│   │   ├── Encapsulation/
-│   │   ├── Inheritance/
-│   │   ├── Polymorphism/
-│   │   └── Abstraction/
-│   ├── Interfaces/
-│   ├── Packages/
 │   ├── Exception-Handling/
-│   ├── Wrapper-Classes/
-│   ├── Collections/
-│   ├── Generics/
+│   ├── Collections-Generics/
 │   ├── Multithreading/
 │   ├── File-Handling/
 │   └── Java-8/
 │
-├── SQL/
-│
-├── JDBC/
+├── Database/
+│   ├── SQL/
+│   └── JDBC/
 │
 ├── Advanced-Java/
-│   ├── HTML/
-│   ├── CSS/
-│   ├── JavaScript/
 │   ├── Servlets/
 │   ├── JSP/
 │   └── MVC/
@@ -1089,576 +939,120 @@ TEAM-Alpha/
 ├── Frontend/
 │   ├── HTML/
 │   ├── CSS/
-│   ├── JavaScript/
 │   ├── Bootstrap/
+│   ├── JavaScript/
 │   └── React/
 │
-├── Full-Stack-Projects/
+├── Microservices/
 │
 ├── Mini-Projects/
 │
-└── Final-Projects/
+└── Full-Stack-Projects/
 ```
 
 ---
 
-# 📝 DAILY TASK WORKFLOW
+# 📝 Daily Task Workflow
 
-Daily assignments will follow a structured process.
+Every assignment follows the same development cycle:
 
 ```text
-             MENTOR
-                ↓
-        Topic Introduction
-                ↓
-       Team Understands Topic
-                ↓
-          Task Assignment
-                ↓
-         Coding & Practice
-                ↓
-         Test the Program
-                ↓
-          Debug Errors
-                ↓
-          Git Add
-                ↓
-          Git Commit
-                ↓
-          Git Push
-                ↓
-       Team Leader Review
-                ↓
-         Code Improvement
-                ↓
-         Task Completed
+Mentor Introduces Topic
+          ↓
+Team Understands Concept
+          ↓
+Task Assigned
+          ↓
+Individual Coding
+          ↓
+Compile & Run
+          ↓
+Test & Debug
+          ↓
+Git Commit
+          ↓
+Git Push
+          ↓
+Team Leader Review
+          ↓
+Improve if Required
+          ↓
+Task Completed ✅
 ```
 
 ---
 
-# 🔀 GIT & GITHUB WORKFLOW
 
-Every team member should contribute using their **own GitHub account**.
+# 🤝 Contribution Guidelines
 
-## 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-```
-
-## 2. Enter the Repository
-
-```bash
-cd TEAM-Alpha
-```
-
-## 3. Get the Latest Changes
-
-Before starting work:
-
-```bash
-git pull
-```
-
-## 4. Complete the Assigned Task
-
-Create or modify the required Java programs.
-
-## 5. Check Your Changes
-
-```bash
-git status
-```
-
-## 6. Add the Changes
-
-```bash
-git add .
-```
-
-## 7. Commit the Changes
-
-```bash
-git commit -m "Complete Task 1 Java programs"
-```
-
-## 8. Push to GitHub
-
-```bash
-git push
-```
+1. Write and understand your own code.
+2. Use your own GitHub account.
+3. Pull the latest changes before starting.
+4. Test programs before committing.
+5. Use meaningful file and class names.
+6. Follow Java naming conventions.
+7. Use meaningful commit messages.
+8. Do not overwrite another member's work.
+9. Keep programs inside the correct folders.
+10. Participate in code reviews and discussions.
+11. Help teammates understand errors instead of simply providing code.
+12. Never commit passwords, API keys, credentials, or sensitive information.
 
 ---
 
-# 🌿 Recommended Branch Workflow
 
-For larger tasks, team members can work using separate branches.
 
-```bash
-git checkout -b feature/task-name
-```
+# 📊 Learning Progress
 
-After completing the work:
+| Stage | Status |
+|------|------|
+| ☕ Java Fundamentals | 🔄 In Progress |
+| 🧠 Core Java | 🔄 In Progress |
+| 🗄️ SQL & JDBC | ⏳ Upcoming |
+| 🌐 Advanced Java | ⏳ Upcoming |
+| 🔗 Hibernate & JPA | ⏳ Upcoming |
+| 🍃 Spring Framework | ⏳ Upcoming |
+| 🚀 Spring Boot & REST APIs | ⏳ Upcoming |
+| 🎨 Frontend Development | ⏳ Upcoming |
+| ⚛️ React | ⏳ Upcoming |
+| 🔐 Security | ⏳ Upcoming |
+| 🔗 Full Stack Integration | ⏳ Upcoming |
+| 🧩 Microservices & DevOps | ⏳ Upcoming |
+| 🏗️ Projects | ⏳ Upcoming |
 
-```bash
-git add .
-git commit -m "Add Task 1 programs"
-git push -u origin feature/task-name
-```
-
-The changes can then be reviewed and merged into the main branch.
-
-For simple daily assignments, the team may work directly on the shared development workflow as agreed by the team.
-
----
-
-# ✍️ COMMIT MESSAGE GUIDELINES
-
-Commit messages should clearly describe what was added or changed.
-
-### Recommended
-
-```text
-Add variable practice programs
-Add data type examples
-Add operator programs
-Add if-else programs
-Add loop programs
-Add method examples
-Add constructor programs
-Add encapsulation example
-Add inheritance example
-Add exception handling example
-Complete Task 5
-```
-
-### Avoid unclear messages
-
-```text
-update
-done
-final
-code
-test
-abc
-hello
-changes
-```
+> The progress table will be updated as TEAM Alpha advances through the learning roadmap.
 
 ---
 
-# 🤝 CONTRIBUTION RULES
-
-1. Each member should write and understand their own code.
-2. Each member should use their own GitHub account.
-3. Each member should commit their own work.
-4. Each member should push their own work.
-5. Do not upload another member's work under your account.
-6. Do not copy code without understanding it.
-7. Test every program before pushing.
-8. Use meaningful commit messages.
-9. Keep the repository organized.
-10. Participate in code reviews.
-11. Help teammates understand errors and concepts.
-12. Maintain genuine and consistent contributions.
-
----
-
-# 🔍 CODE REVIEW PROCESS
-
-Before a task is considered complete:
-
-```text
-Program Written
-      ↓
-Compile
-      ↓
-Run
-      ↓
-Check Output
-      ↓
-Check Logic
-      ↓
-Check Naming
-      ↓
-Check Formatting
-      ↓
-Commit
-      ↓
-Push
-      ↓
-Review
-      ↓
-Improve
-      ↓
-Task Complete
-```
-
-The Team Leader will review the submitted work and help identify errors, logical issues, or improvements.
-
----
-
-# 📋 TASK MANAGEMENT
-
-Assignments will be maintained using task numbers.
-
-```text
-Task 1
-Task 2
-Task 3
-Task 4
-Task 5
-...
-```
-
-Each task may contain:
-
-* Questions
-* Concepts
-* Programming problems
-* Expected output
-* Solutions
-* Practice exercises
-
-As the learning journey continues, new tasks will be added to the repository.
-
----
-
-# 📊 LEARNING PROGRESS
-
-| Stage | Area                           | Status         |
-| ----: | ------------------------------ | -------------- |
-|     1 | Java Fundamentals              | 🔄 In Progress |
-|     2 | Control Statements & Loops     | 🔄 In Progress |
-|     3 | Methods & Constructors         | 🔄 In Progress |
-|     4 | Arrays & Strings               | ⏳ Upcoming     |
-|     5 | OOP                            | ⏳ Upcoming     |
-|     6 | Exception Handling             | ⏳ Upcoming     |
-|     7 | Collections & Generics         | ⏳ Upcoming     |
-|     8 | Multithreading & File Handling | ⏳ Upcoming     |
-|     9 | Java 8 Features                | ⏳ Upcoming     |
-|    10 | SQL & MySQL                    | ⏳ Upcoming     |
-|    11 | JDBC                           | ⏳ Upcoming     |
-|    12 | Advanced Java                  | ⏳ Upcoming     |
-|    13 | Hibernate & JPA                | ⏳ Upcoming     |
-|    14 | Spring                         | ⏳ Upcoming     |
-|    15 | Spring Boot                    | ⏳ Upcoming     |
-|    16 | REST APIs                      | ⏳ Upcoming     |
-|    17 | Frontend Development           | ⏳ Upcoming     |
-|    18 | React                          | ⏳ Upcoming     |
-|    19 | Full Stack Integration         | ⏳ Upcoming     |
-|    20 | Projects                       | ⏳ Upcoming     |
-|    21 | Microservices                  | ⏳ Upcoming     |
-
-> Progress will be updated as the team completes each stage.
-
----
-
-# 💻 PROGRAMMING PRACTICE
-
-Our programming practice will cover different levels of problems.
-
-## Basic Programs
-
-* Mathematical operations
-* Number checking
-* Conditions
-* Loops
-* Patterns
-* Basic input and output
-
-## Logical Programs
-
-* Prime numbers
-* Palindrome
-* Armstrong numbers
-* Fibonacci series
-* Factorial
-* Reverse numbers
-* Digit operations
-* Searching
-* Sorting
-
-## OOP Programs
-
-* Classes and objects
-* Constructors
-* Encapsulation
-* Inheritance
-* Polymorphism
-* Abstraction
-* Interfaces
-
-## Interview Practice
-
-* Java fundamentals
-* OOP questions
-* Arrays
-* Strings
-* Collections
-* Exception handling
-* Java 8
-* Logical problems
-* Object-oriented programming problems
-
----
-
-# 🛡️ REPOSITORY GUIDELINES
-
-To maintain a clean and professional repository:
-
-* Use meaningful folder names.
-* Use proper Java class names.
-* Follow Java naming conventions.
-* Keep one public class per Java file.
-* Keep programs organized according to topics.
-* Write readable and maintainable code.
-* Test programs before committing.
-* Do not commit unnecessary files.
-* Do not upload passwords, API keys, or sensitive information.
-* Avoid committing unnecessary IDE-generated files.
-* Keep documentation updated.
-* Do not delete or modify another member's work without discussion.
-
----
-
-# 📌 JAVA NAMING CONVENTIONS
-
-## Classes
-
-Use **PascalCase**:
-
-```text
-Student
-EmployeeDetails
-BankAccount
-Calculator
-```
-
-## Variables
-
-Use **camelCase**:
-
-```text
-studentName
-employeeSalary
-totalMarks
-```
-
-## Methods
-
-Use **camelCase**:
-
-```text
-calculateSalary()
-displayDetails()
-findLargest()
-```
-
-## Constants
-
-Use **UPPER_SNAKE_CASE**:
-
-```text
-MAX_VALUE
-PI_VALUE
-DEFAULT_SIZE
-```
-
----
-
-# 🧠 LEARNING PRINCIPLES
-
-TEAM Alpha follows these principles:
-
-### Understand Before Coding
-
-We focus on understanding the concept rather than simply completing the task.
-
-### Practice Through Programs
-
-Every important concept should be reinforced through practical coding.
-
-### Debug and Learn
-
-Errors are treated as opportunities to understand programming better.
-
-### Contribute Individually
-
-Every member maintains their own genuine GitHub contribution.
-
-### Review and Improve
-
-Code is reviewed to improve logic, readability, and quality.
-
-### Build Real Projects
-
-Knowledge gained from individual programs will eventually be applied to complete applications.
-
----
-
-# 🌟 TEAM VALUES
-
-### 🤝 Teamwork
-
-We learn from each other and support one another.
-
-### 💡 Curiosity
-
-We ask questions and explore how things work.
-
-### 💻 Consistency
-
-Regular coding practice is essential for improvement.
-
-### 🧠 Problem Solving
-
-We focus on understanding problems and developing logical solutions.
-
-### 🔍 Quality
-
-We aim to write clean, understandable, and tested code.
-
-### 🚀 Growth
-
-We continuously improve our technical and professional skills.
-
----
-
-# 🏆 FINAL GOAL
-
-Our complete journey is:
+# 🏆 Our Final Goal
 
 ```text
 JAVA BEGINNER
       ↓
 JAVA PROGRAMMER
       ↓
-CORE JAVA DEVELOPER
+CORE JAVA
       ↓
-ADVANCED JAVA DEVELOPER
+ADVANCED JAVA
       ↓
-BACKEND DEVELOPER
+BACKEND DEVELOPMENT
       ↓
-FULL STACK DEVELOPER
+FRONTEND DEVELOPMENT
+      ↓
+FULL STACK DEVELOPMENT
+      ↓
+REAL-WORLD PROJECTS
       ↓
 JAVA FULL STACK DEVELOPER 🚀
 ```
 
----
+Our aim is not simply to complete topics.
 
-# 🗺️ COMPLETE LEARNING JOURNEY
-
-```text
-                    JAVA
-                      │
-                      ▼
-             JAVA FUNDAMENTALS
-                      │
-                      ▼
-                 CORE JAVA
-                      │
-          ┌───────────┴───────────┐
-          │                       │
-         OOP              Collections & Java 8
-          │                       │
-          └───────────┬───────────┘
-                      ↓
-                SQL & MYSQL
-                      │
-                      ▼
-                    JDBC
-                      │
-                      ▼
-             ADVANCED JAVA
-                      │
-             ┌────────┴────────┐
-             │                 │
-          SERVLETS             JSP
-             │                 │
-             └────────┬────────┘
-                      ↓
-                  HIBERNATE
-                      │
-                      ▼
-                     JPA
-                      │
-                      ▼
-                   SPRING
-                      │
-                      ▼
-                SPRING BOOT
-                      │
-                      ▼
-                  REST APIs
-                      │
-                      ▼
-             FRONTEND DEVELOPMENT
-                      │
-          HTML / CSS / JavaScript
-                      │
-                      ▼
-                   REACT
-                      │
-                      ▼
-            FULL STACK INTEGRATION
-                      │
-                      ▼
-                   PROJECTS
-                      │
-                      ▼
-                 MICROSERVICES
-                      │
-                      ▼
-          JAVA FULL STACK DEVELOPER 🚀
-```
+We want to develop the ability to **understand problems, design solutions, write clean code, debug applications, collaborate through GitHub, build projects, and continuously improve as developers.**
 
 ---
 
-# 📈 PROJECT DEVELOPMENT PATH
 
-Our practical development path will progress from small programs to complete applications:
+> ### **Learn Together • Code Consistently • Build Together • Grow Together**
 
-```text
-Basic Programs
-      ↓
-Problem-Solving Programs
-      ↓
-Core Java Programs
-      ↓
-Mini Projects
-      ↓
-JDBC Applications
-      ↓
-Web Applications
-      ↓
-Spring Boot Applications
-      ↓
-REST API Projects
-      ↓
-Full Stack Applications
-      ↓
-Real-World Projects
-```
-
----
-
-# 👨‍🏫 MENTOR
-
-**Shashank Sir**
-
-# 👥 TEAM ALPHA
-
-**Rushi Tungana • Sujay • RamMoorthy • Ankith**
-
----
-
-# 🚀 TEAM ALPHA
-
-> **Learn Together. Practice Daily. Build Projects. Grow as Developers.**
-
-### ☕ From Java Basics to Java Full Stack — One Concept, One Program, One Commit at a Time.
-
-```
-```
-
+### ☕ From Java Fundamentals to Java Full Stack — One Concept, One Program, One Commit at a Time. 🚀
